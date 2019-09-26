@@ -2,11 +2,15 @@
 
 I am interested majorly in doing the spatial analysis in R. There are multiple advantages of doing the analysis in R in comparison to other proprietory softwares.
 
-## Repositories
+## Required packages
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+Workflow in R is mostly concentrated around different packages. If you are proficient in R or working with R for sometime you must have explored different packages for your work.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+For spatial analysis there are some packages.
+1. raster
+2. rgdal
+3. spatstat
+4. maptools
 
 ## Describe your project
 
