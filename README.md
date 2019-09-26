@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# Spatial-Analysis
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+I am interested majorly in doing the spatial analysis in R. There are multiple advantages of doing the analysis in R in comparison to other proprietory softwares.
 
 ## Repositories
 
